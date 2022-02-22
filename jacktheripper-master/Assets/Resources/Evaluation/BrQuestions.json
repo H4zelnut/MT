@@ -1,0 +1,25 @@
+{
+    "question": "Which Object was not found on the scene of crime?",
+    "ansA": "Comb",
+    "ansB": "Handkerchief",
+    "ansC": "Mirror",
+    "ansD": "Cart Tracks",
+    "rightAns": 4,
+    "givenAns": 3
+}{
+    "question": "Where did the murder occur?",
+    "ansA": "Whitechapel Road",
+    "ansB": "Bucks Row",
+    "ansC": "Bakers Row",
+    "ansD": "Hanburry Street",
+    "rightAns": 2,
+    "givenAns": 2
+}{
+    "question": "Was there a hint to the background of the victim?",
+    "ansA": "Yes, Lambeth Work House",
+    "ansB": "Yes, Mirror Factory",
+    "ansC": "Yes, she lived at Bucks Row",
+    "ansD": "No",
+    "rightAns": 1,
+    "givenAns": 1
+}

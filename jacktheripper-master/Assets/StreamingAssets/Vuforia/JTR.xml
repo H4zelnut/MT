@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="mccarthy" size="3.000000 3.057082" />
+    <ImageTarget name="normal_21Reynolds_Newspaper_18_November_1888cb" size="2.000000 1.140000" />
+    <ImageTarget name="blindman-full" size="2.000000 2.555556" />
+    <ImageTarget name="paper3" size="2.000000 1.395548" />
+    <ImageTarget name="paper2" size="2.000000 1.719658" />
+    <ImageTarget name="paper1" size="2.000000 2.830626" />
+    <ImageTarget name="thomas_bowyer_13_millers_court" size="2.000000 2.285714" />
+    <ImageTarget name="thosboywer" size="2.000000 2.565611" />
+    <ImageTarget name="dorset_st_whitechapel" size="5.000000 3.416667" />
+    <ImageTarget name="from_hell" size="5.000000 7.168141" />
+    <ImageTarget name="ausschnitt10" size="5.000000 4.648241" />
+    <ImageTarget name="Ausschnitt9" size="5.000000 1.764264" />
+    <ImageTarget name="ausschnitt8" size="5.000000 4.338235" />
+    <ImageTarget name="ausschnitt7" size="5.000000 3.182353" />
+    <ImageTarget name="Ausschnitt6" size="5.000000 3.248792" />
+    <ImageTarget name="ausschnitt3" size="5.000000 3.127168" />
+    <ImageTarget name="Ausschnitt5" size="5.000000 5.194611" />
+    <ImageTarget name="ausschnitt4" size="5.000000 2.619048" />
+    <ImageTarget name="ausschnitt2" size="5.000000 5.278514" />
+    <ImageTarget name="ausschnitt" size="5.000000 4.419087" />
+    <ImageTarget name="SJPostcard" size="5.000000 8.250478" />
+    <ImageTarget name="dear-boss-reverse" size="5.000000 7.354167" />
+    <ImageTarget name="dear-boss-front" size="5.000000 7.354167" />
+    <ImageTarget name="dutfieldsyard" size="1.000000 1.134118" />
+    <ImageTarget name="hanburry_street5" size="5.000000 8.696319" />
+    <ImageTarget name="bucks_row5" size="5.000000 3.313253" />
+  </Tracking>
+</QCARConfig>
